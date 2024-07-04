@@ -4,6 +4,7 @@
 This project focuses on the AdventureWorks database, which supports standard scenarios for online transaction processing for the fictional bicycle manufacturer, Adventure Works Cycles. The scenarios encompass various aspects including Manufacturing, Sales, Purchasing, Product Management, Contact Management, and Human Resources.
 
 **Description of the file:**
+- 8540.AdventureWorks2008_ERD : ERD of the dataset
 - PR_SKBA_09 : Presentation
 - T2_SKBA_09_VF : Descriptive Analysis
 - T3_SKBA_09_VF : EDA (Exploratory Data Analysis)
